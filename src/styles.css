@@ -1,0 +1,72 @@
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+    .navbar {
+      margin-bottom:0px;
+      padding: 5px;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+    .nav{
+      margin-bottom: 10px;
+    }
+  .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      margin-top: 10px;
+      margin: auto;
+      min-height:200px;
+  }
+  .logo {
+      color: #f4511e;
+      font-size: 200px;
+    }
+    body {
+      font: 400 15px Lato, sans-serif;
+      line-height: 1.8;
+      color: #818181;
+  }
+  h1 {
+    font-size: 48px;
+    color:#fa5b0f;
+    line-height: 48px;
+    font-weight: 800;
+    margin: 15px 0;
+}
+.mission{
+    font-size: 18px;
+    text-align: justify;
+}
+.AboutContant{
+    font-family: "Times New Roman", Times, serif;
+    text-align: justify;
+    font-size: 18px;
+}
+#adds{
+
+  padding: 30px;
+  margin-top: -20px;
+}
+#about{
+  color: black;
+}
+#values{
+  margin-top: 90px;
+  padding-left: 50px;
+}
+#inverse{
+  padding: 20px;
+  background-color: black;
+}
+.footer
+{
+    position: relative;;
+    bottom: 0px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;;
+}
+#product{
+  padding: 150px;
+  padding-left: 70px;
+
+  }
